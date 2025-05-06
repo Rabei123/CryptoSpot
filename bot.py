@@ -1,4 +1,4 @@
-aimport ccxt
+import ccxt
 import pandas as pd
 import ta
 from telegram.ext import Application
